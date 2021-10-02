@@ -1,0 +1,4 @@
+C:\Users\Nicolas\Documents\misionTicc3\taller3Part2\mascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Consola\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Consola.csprojAssemblyReference.cache
+C:\Users\Nicolas\Documents\misionTicc3\taller3Part2\mascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Consola\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Consola.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\misionTicc3\taller3Part2\mascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Consola\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Consola.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\misionTicc3\taller3Part2\mascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Consola\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Consola.csproj.CoreCompileInputs.cache
